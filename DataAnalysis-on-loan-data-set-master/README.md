@@ -1,2 +1,3 @@
 # DataAnalysis-on-loan-data-set
-Python(Numpy,Pandas,Scikit-Learn,Matplotlib)
+This project aims to build classification models that would predict whether assigning the loan to particular person will be safe or not.
+Technology: Python(Numpy,Pandas,Scikit-Learn,Matplotlib)
